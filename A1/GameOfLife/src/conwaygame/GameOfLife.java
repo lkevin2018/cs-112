@@ -13,6 +13,9 @@ import java.util.ArrayList;
 
  * @author Seth Kelley 
  * @author Maxwell Goldberg
+ * @author Kevin Joseph
+ *         kbj24
+ *         kbj24@rutgers.edu
  *
  */
 public class GameOfLife {
